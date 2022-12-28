@@ -2,8 +2,9 @@
     <h1>🙂Welcome to <b>Moyeo</b>🙂</h1>
 
 
-## Moyeo는 개인 서버를 갖고 싶어 만들게 되었습니다.
-## [@choiyeju](https://github.com/choiyeju)의 포트폴리오를 정리하는 공간입니다.
+Moyeo는 개인 서버를 갖고 싶어 만들게 되었습니다.
+
+[@choiyeju](https://github.com/choiyeju)의 포트폴리오를 정리하는 공간입니다.
 
 <br>
 
@@ -11,8 +12,8 @@
 
 ## **Github Url**
 
-> private<br>
-> [https://github.com/moyeo-portfolio/moyeo-server](https://github.com/moyeo-portfolio/moyeo-server)
+private<br>
+[https://github.com/moyeo-portfolio/moyeo-server](https://github.com/moyeo-portfolio/moyeo-server)
 
 
 <br>
@@ -50,7 +51,7 @@ spring 4.0.9<br>
 
 ## **시스템 구성도**
 
-![시스템 구성도](./assets/readme/system_composition.png)
+![시스템 구성도](./system_composition.png)
 
 <br>
 
@@ -58,8 +59,8 @@ spring 4.0.9<br>
 
 ## **Github Url**
 
-> public<br>
-> [https://github.com/moyeo-portfolio/moyeo-client](https://github.com/moyeo-portfolio/moyeo-client)
+public<br>
+[https://github.com/moyeo-portfolio/moyeo-client](https://github.com/moyeo-portfolio/moyeo-client)
 
 ## **기술 스택**
 
