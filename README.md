@@ -49,7 +49,7 @@ private<br>
 
 ## **시스템 구성도**
 
-![시스템 구성도](./system_composition.png)
+![시스템 구성도](./system_com.png)
 
 <br>
 
