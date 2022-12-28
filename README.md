@@ -1,9 +1,7 @@
 <div align="center">
     <h1>🙂Welcome to <b>Moyeo</b>🙂</h1>
 
-Moyeo는 개인 서버를 갖고 싶어 시작한 개인 프로젝트 입니다.
-
-[@choiyeju](https://github.com/choiyeju)의 포트폴리오를 정리하는 공간 입니다.
+### Moyeo는 개인 서버를 갖고 싶어 시작한 개인 프로젝트 입니다.<br>[@choiyeju](https://github.com/choiyeju)의 포트폴리오를 정리하는 공간 입니다.
 
 </div>
 
@@ -17,8 +15,8 @@ Moyeo는 개인 서버를 갖고 싶어 시작한 개인 프로젝트 입니다.
 
 ## **Github Url**
 
-private<br>
-[https://github.com/moyeo-portfolio/moyeo-server](https://github.com/moyeo-portfolio/moyeo-server)
+> private<br>
+> [https://github.com/moyeo-portfolio/moyeo-server](https://github.com/moyeo-portfolio/moyeo-server)
 
 
 <br>
@@ -61,8 +59,8 @@ private<br>
 
 ## **Github Url**
 
-public<br>
-[https://github.com/moyeo-portfolio/moyeo-client](https://github.com/moyeo-portfolio/moyeo-client)
+> public<br>
+> [https://github.com/moyeo-portfolio/moyeo-client](https://github.com/moyeo-portfolio/moyeo-client)
 
 <br>
 
